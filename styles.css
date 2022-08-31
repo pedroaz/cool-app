@@ -1,0 +1,8 @@
+:root {
+    display: flex;
+}
+
+.a {
+    text-align: center;
+    color: blue;
+}
